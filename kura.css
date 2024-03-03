@@ -25,6 +25,7 @@ body{
 }
 #menu.visible{
     transform: translateX(0);
+    
 }
 .overlay{
     position: absolute;
